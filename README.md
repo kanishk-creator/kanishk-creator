@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kanishk-creator
-- My age is 15 years
-- 👀 I’m interested in C/C++ game dev
-- 🌱 I’m currently learning C++
+- My age is 18 years
+- 👀 I’m interested in C game dev
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Game Engines and Their Devlopment ...
 - 📫 How to reach me i am on instagram but i have disabled my account for a while my email address kanishkray90@gmail.com ...
 
